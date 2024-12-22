@@ -1,7 +1,7 @@
 {
     "name": "spt-speedload",
     "version": "1.0.1",
-    "sptVersion": "~3.9",
+    "sptVersion": "~3.10",
     "loadBefore": [],
     "loadAfter": [],
     "incompatibilities": [],
